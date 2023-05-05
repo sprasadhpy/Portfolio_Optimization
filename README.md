@@ -1,2 +1,2 @@
 # Portfolio_Optimization
-Create different type of portfolsios
+Create different type of portfolios
